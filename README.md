@@ -30,9 +30,12 @@ Este espaço reúne meus projetos práticos em:
 
 ---
 
-## 🧾 Sobre Mim
-Estudante de Inteligência Artificial na UNIFAEL com foco em automações no setor público, aplicando IA de forma acessível e prática.  
-Projeto de TCC em andamento baseado em LLMs e soluções Google Workspace.
+### 🧾 Sobre Mim
+
+Estudante de Inteligência Artificial na UNIFAEL com foco em automações no setor público, aplicando IA de forma acessível e prática.
+
+🌱 Formado em Gestão Ambiental + apaixonado por soluções digitais com impacto  
+🤖 Projetos com AppSheet, Google Sheets, Chatbots e Google Apps Script.
 
 📫 Contato: labtecinfo.br@gmail.com  
 🌐 GitHub: [github.com/labtecinfo](https://github.com/labtecinfo)
