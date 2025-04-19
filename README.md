@@ -42,4 +42,4 @@ Estudante de Inteligência Artificial na UNIFAEL com foco em automações no set
 
 ---
 
-🖼️ *Identidade visual do projeto: raposa minimalista e chatbot assistente*
+
